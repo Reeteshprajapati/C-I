@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Career Infra Edu Overseas
 
 A premium, high-performance web platform for **Career Infra Edu Overseas**, a leading overseas education consultancy since 2014. This platform is designed to provide students with a seamless journey from discovering study destinations to booking their first free counseling session.
@@ -83,3 +84,6 @@ npm run build
 ---
 
 Developed with ❤️ for **Career Infra Edu Overseas** by **UDM Techno Solutions**.
+=======
+# C-I
+>>>>>>> f116c181b628cbd14e2d4b8ad34ca17eaa355ca5
